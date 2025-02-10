@@ -28,9 +28,6 @@ A **GUI-based Reminder App** built using **Python (Tkinter)** that allows users 
    python reminder_app.py
    \`\`\`
 
-## 📷 Screenshots (Optional)  
-_Add screenshots of your app's interface here._  
-
 ## 🛠 How It Works  
 1. **Adding a Reminder:**  
    - Enter a **title**  
