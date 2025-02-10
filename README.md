@@ -51,26 +51,3 @@ Feel free to fork this repository and submit a pull request with improvements.
 ## 📜 License  
 This project is licensed under the **MIT License**.  
 "
-
-# Write to README.md
-echo "$readme_content" > README.md
-
-# Ensure we're in a Git repository
-if [ ! -d ".git" ]; then
-    echo "❌ Error: Not inside a Git repository. Initializing Git..."
-    git init
-    git remote add origin git@github.com:your-username/Reminder-App.git
-fi
-
-# Stage the file
-git add README.md
-
-# Commit the changes if there are any
-if git diff --cached --quiet; then
-    echo "✅ No changes to commit."
-else
-    git commit -m "Update README.md with new content"
-    git push origin main
-    echo "✅ README.md file has been updated and pushed successfully!"
-fi
-    
