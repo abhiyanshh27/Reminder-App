@@ -1,5 +1,4 @@
 # Define the README content
-readme_content="# 📌 Reminder App  
 
 A **GUI-based Reminder App** built using **Python (Tkinter)** that allows users to set and manage reminders with an intuitive interface.  
 
@@ -50,4 +49,3 @@ Feel free to fork this repository and submit a pull request with improvements.
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
-"
