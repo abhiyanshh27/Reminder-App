@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Define the README content
 readme_content="# 📌 Reminder App  
 
@@ -75,3 +73,4 @@ else
     git push origin main
     echo "✅ README.md file has been updated and pushed successfully!"
 fi
+    
