@@ -19,7 +19,7 @@ A **GUI-based Reminder App** built using **Python (Tkinter)** that allows users 
 
 1. **Clone the repository**  
    \`\`\`bash
-   git clone https://github.com/abhiyansh27/Reminder-App.git
+   git clone https://github.com/abhiyanshh27/Reminder-App.git
    cd Reminder-App
    \`\`\`
 
